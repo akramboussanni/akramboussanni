@@ -6,7 +6,7 @@ I am most prolific in **C#**. i specialize in backend technologies, especially w
 - [Mrie](https://github.com/akramboussanni/Mrie) - a fullstack web app built with C#, with auth, **AI** features, media ripper, and more. | visit me [here](https://mrie.dev)
 - [ScpServerTools](https://github.com/warden161/ScpServerTools) - a crossplatform MAUI/C# app that handles a game server in a user-friendly way
 - [OpenGloves for C#](https://github.com/TheUltiOne/OpenGloves-Unity) - a C# wrapper for a vr ffb glove driver
-- [BindsManagerUltimate](https://github.com/TheUltiOne/BindsManagerUltimate) - a C# WinForms app to handle settings for a unity game 
+- [BindsManagerUltimate](https://github.com/TheUltiOne/BindsManagerUltimate) - a C# WinForms app to graphically manage settings for a unity game 
 - wip: [myrae.io](https://github.com/akramboussanni/myrae) - a modular, scalable, performant media server written in Golang | visit my wip [here](https://myrae.io)
 - a LOT more: my other github profiles contain some smaller projects.
 
