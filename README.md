@@ -4,11 +4,12 @@ I am most prolific in **C#**. I work mostly with backend technologies, mainly wi
 
 ## Projects
 - [Mrie](https://github.com/akramboussanni/Mrie) - a fullstack web app built with C#, with auth, **AI** features, media ripper, and more. | visit me [here](https://mrie.dev)
+- [mawaqitnode](https://github.com/akramboussanni/mawaqitnode) - a C++ embedded app for the ESP-32 (using platformio) that fetches prayer time from the web and displays them beautifully and timezone aware.
 - [ScpServerTools](https://github.com/warden161/ScpServerTools) - a crossplatform MAUI/C# app that handles a game server in a user-friendly way
 - [OpenGloves for C#](https://github.com/TheUltiOne/OpenGloves-Unity) - a C# wrapper to handle FFB for OpenGloves 
-- [BindsManagerUltimate](https://github.com/TheUltiOne/BindsManagerUltimate) - a C# WinForms app to graphically manage settings for a unity game 
+- [BindsManagerUltimate](https://github.com/TheUltiOne/BindsManagerUltimate) - a C# WinForms app to graphically manage settings for a unity game
 - wip: [myrae.io](https://github.com/akramboussanni/myrae) - a modular, scalable, performant media server written in Golang | visit my wip [here](https://myrae.io)
-- a LOT more: my other github profiles contain some smaller projects.
+- my other github profiles contain some smaller projects, generally in C#
 
 ## Main languages
 ![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp,go)
