@@ -1,4 +1,4 @@
-17 year old fullstack developer. I pride myself in my adaptability and capability to adopt new tech stacks quickly.
+17 year old fullstack developer.
 
 I am most prolific in **C#**. I specialize in backend technologies, especially with ASP.NET & **Golang**.
 
