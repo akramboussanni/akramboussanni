@@ -1,6 +1,6 @@
 17 year old fullstack developer.
 
-I am most prolific in **C#**. I specialize in backend technologies, especially with ASP.NET & **Golang**.
+I am most prolific in **C#**. I work mostly with backend technologies, mainly with ASP.NET & Go.
 
 ## Projects
 - [Mrie](https://github.com/akramboussanni/Mrie) - a fullstack web app built with C#, with auth, **AI** features, media ripper, and more. | visit me [here](https://mrie.dev)
