@@ -4,6 +4,7 @@ I am most prolific in **C#**. I work mostly with backend technologies, mainly wi
 
 ## Projects
 - [midah](https://github.com/akramboussanni/midah) - a Rust crossplatform desktop app that allows fetching from youtube api and playing sounds through your microphone
+- [gocode](https://github.com/akramboussanni/gocode) - fully complete secure auth backend written in Go with jwt, hashing, session invalidation and more 
 - [Mrie](https://github.com/akramboussanni/Mrie) - a fullstack web app built with C#, with auth, **AI** features, media ripper, and more. | visit me [here](https://mrie.dev)
 - [mawaqitnode](https://github.com/akramboussanni/mawaqitnode) - a C++ embedded app for the ESP-32 (using platformio) that fetches prayer time from the web and displays them beautifully and timezone aware.
 - [ScpServerTools](https://github.com/warden161/ScpServerTools) - a crossplatform MAUI/C# app that handles a game server in a user-friendly way
