@@ -16,7 +16,7 @@ I am most prolific in **C#**. I work mostly with backend technologies, mainly wi
 ![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp,go)
 
 ## Other languages
-![Coding Languages](https://skills-icons.vercel.app/api/icons?i=java,ts,cpp,python)
+![Coding Languages](https://skills-icons.vercel.app/api/icons?i=java,ts,cpp,python,rust)
 
 ## More profiles
 i have other github profiles:
