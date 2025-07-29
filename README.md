@@ -1,6 +1,4 @@
-fullstack dev
-
-golang enthusiast
+17yo fullstack dev | golang enthusiast
 
 ## Projects
 - [midah](https://github.com/akramboussanni/midah) - a Rust crossplatform desktop app that allows fetching from youtube api and playing sounds through your microphone
