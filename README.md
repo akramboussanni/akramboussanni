@@ -1,6 +1,6 @@
-17 year old fullstack developer.
+fullstack dev
 
-I am most prolific in **C#**. I work mostly with backend technologies, mainly with ASP.NET & Go.
+golang enthusiast
 
 ## Projects
 - [midah](https://github.com/akramboussanni/midah) - a Rust crossplatform desktop app that allows fetching from youtube api and playing sounds through your microphone
