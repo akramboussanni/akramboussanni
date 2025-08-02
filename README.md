@@ -3,6 +3,7 @@
 ## Projects
 - [midah](https://github.com/akramboussanni/midah) - a Rust crossplatform desktop app that allows fetching from youtube api and playing sounds through your microphone
 - [treenode](https://github.com/akramboussanni/treenode) - a fullstack linktree platform clone built with Go & nextjs frontend | visit me [here](https://kimotherapy.dev)
+- [swcuts](https://swcuts.com) - a booking multitenant website for haircuts with accounts, email confirmation, canceling and more
 - [gocode](https://github.com/akramboussanni/gocode) - fully complete secure auth backend written in Go with jwt, hashing, session invalidation and more 
 - [Mrie](https://github.com/akramboussanni/Mrie) - a fullstack web app built with C#, with auth, **AI** features, media ripper, and more. | visit me [here](https://mrie.dev)
 - [mawaqitnode](https://github.com/akramboussanni/mawaqitnode) - a C++ embedded app for the ESP-32 (using platformio) that fetches prayer time from the web and displays them beautifully and timezone aware.
