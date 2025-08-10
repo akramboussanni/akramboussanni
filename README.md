@@ -1,17 +1,19 @@
 # About Me
-**Akram Boussanni** — 17-year-old software developer. Backend-focused but comfortable in frontend. I started my journey coding on Roblox at 10, then starting tinkering with reverse engineering since 12.  
+**Akram Boussanni** — 17-year-old software developer. Backend-focused but comfortable in frontend.
 
-**Specialties:**
+**I specialize with:**
 
 ![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp,go)
 
-**Proficient In:**
+**... and I'm also great with:**
 
 ![Coding Languages](https://skills-icons.vercel.app/api/icons?i=rust,ts,java,cpp,python,robloxstudio)
 
-**Comfortable With:** 
+**... but I can even work with:** 
 
 ![Coding Languages](https://skills-icons.vercel.app/api/icons?i=swift,flutter,ruby)
+
+**... although I'm not the best.**
 
 ---
 
