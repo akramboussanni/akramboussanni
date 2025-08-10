@@ -1,22 +1,4 @@
-# About Me
-**Akram Boussanni** — 17-year-old software developer. Backend-focused but comfortable in frontend.
-
-**I specialize with:**
-
-![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp,go)
-
-**... and I'm also great with:**
-
-![Coding Languages](https://skills-icons.vercel.app/api/icons?i=rust,ts,java,cpp,python,robloxstudio)
-
-**... but I can even work with:** 
-
-![Coding Languages](https://skills-icons.vercel.app/api/icons?i=swift,flutter,ruby)
-
-**... although I'm not the best.**
-
----
-
+17 year old software developer. Best at backend, but also comfortable on the frontend.
 ## 🌐 Deployed Websites
 
 | Project | Description |
@@ -47,6 +29,24 @@
 
 ---
 
+**I specialize with:**
+
+![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp,go)
+
+**... and I'm also great with:**
+
+![Coding Languages](https://skills-icons.vercel.app/api/icons?i=rust,ts,java,cpp,python,robloxstudio)
+
+**... but I can even work with:** 
+
+![Coding Languages](https://skills-icons.vercel.app/api/icons?i=swift,flutter,ruby)
+
+**... although I'm not the best.**
+
+---
+
+
 ## 🔗 Other Profiles
 - [github.com/warden161](https://github.com/warden161)  
 - [github.com/theultione](https://github.com/theultione)  
+
