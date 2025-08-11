@@ -41,7 +41,6 @@
 
 ![Coding Languages](https://skills-icons.vercel.app/api/icons?i=swift,flutter,ruby)
 
-**... although I'm not the best.**
 
 ---
 
