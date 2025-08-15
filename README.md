@@ -13,7 +13,7 @@
 ## 🖥 Applications
 | Project | Description |
 |---------|-------------|
-| **[midah](https://github.com/akramboussanni/midah)** \| [[source]](https://github.com/akramboussanni/midah)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=rust,tauri,ts,vue) | Cross-platform YouTube downloader + soundboard — plays audio in mic; auto-installs dependencies. |
+| **[midah](https://github.com/akramboussanni/midah)** \| [[source]](https://github.com/akramboussanni/midah)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=rust,tauri,ts,react) | Cross-platform YouTube downloader + soundboard — plays audio in mic; auto-installs dependencies. |
 | **[mawaqitnode](https://github.com/akramboussanni/mawaqitnode)** \| [[source]](https://github.com/akramboussanni/mawaqitnode)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=cpp,platformio) | ESP-32 prayer display — live times, timezone handling. |
 | **[ScpServerTools](https://github.com/warden161/ScpServerTools)** \| [[source]](https://github.com/warden161/ScpServerTools)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp) | Cross-platform GUI to manage SCP:SL servers. |
 | **[BindsManagerUltimate](https://github.com/TheUltiOne/BindsManagerUltimate)** \| [[source]](https://github.com/TheUltiOne/BindsManagerUltimate)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp) | GUI for Unity game bind configuration. |
