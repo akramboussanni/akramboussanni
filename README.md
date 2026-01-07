@@ -4,6 +4,7 @@
 | Project | Description |
 |---------|-------------|
 | **[treenode.me](https://treenode.me)** \| [[source]](https://github.com/akramboussanni/treenode)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=go,ts,nextjs) | Linktree clone — create customizable link pages ([example](https://treenode.me/kimo)). |
+| **[marchive](https://github.com/akramboussanni/marchive)** \| [[source]](https://github.com/akramboussanni/marchive)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=go,ts,vue) | Anna's Archive downloader/archiver with user, admin, etc. |
 | **[plzstalk.me](https://plzstalk.me)**<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=go,ts,nextjs,playwright) | Wayback Machine for TikTok — view past videos/reposts. |
 | **[swcuts.com](https://swcuts.com)**<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=go,ts,nextjs) | Barber booking — multi-barber scheduling, confirmations, cancellations. |
 | **[mrie.dev](https://mrie.dev)** \| [[source]](https://github.com/akramboussanni/mrie/)<br><br>![Coding Languages](https://skills-icons.vercel.app/api/icons?i=csharp,blazor) | Internet utilities hub — AI assistant, downloader, prayer times, URL shortener.<br>_Rewrite in Go+NextJS in progress_ ([new repo](https://github.com/akramboussanni/mrie/tree/rewrite)). |
